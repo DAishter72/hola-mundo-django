@@ -1,0 +1,34 @@
+/* styles.css */
+
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Estilos para el contenedor principal */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+/* Estilos para el título h1 */
+h1 {
+  color: #007BFF;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+/* Estilos para el párrafo */
+p {
+  font-size: 1.2em;
+  color: #555;
+}
